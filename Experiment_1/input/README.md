@@ -1,1 +1,1 @@
-Files 
+Input files for Experiment 1 scripts. Files span DESeq2 statistical results comparing lung tissue samples from mice exposed to various biomass burn conditions for 4h or 24h to 4h and 24h saline exposures. Exposure conditions include flaming and smoldering burns of red oak, peat, pine, pine needles, and eucalyptus. Additionally, cardiopulmonary toxicity endpoints evaluated in the mice are also included.
