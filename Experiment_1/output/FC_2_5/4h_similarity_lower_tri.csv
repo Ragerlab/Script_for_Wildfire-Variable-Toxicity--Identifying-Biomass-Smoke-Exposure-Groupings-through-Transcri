@@ -1,0 +1,12 @@
+ind,jaccard_similarity_LPS,overlap_LPS,jaccard_similarity_PeatFlame,overlap_PeatFlame,jaccard_similarity_EucalyptusFlame,overlap_EucalyptusFlame,jaccard_similarity_EucalyptusSmolder,overlap_EucalyptusSmolder,jaccard_similarity_PineNeedlesFlame,overlap_PineNeedlesFlame,jaccard_similarity_RedOakFlame,overlap_RedOakFlame,jaccard_similarity_PineFlame,overlap_PineFlame,jaccard_similarity_PineSmolder,overlap_PineSmolder,jaccard_similarity_PineNeedlesSmolder,overlap_PineNeedlesSmolder,jaccard_similarity_PeatSmolder,overlap_PeatSmolder,jaccard_similarity_RedOakSmolder,overlap_RedOakSmolder
+LPS,1,119, , , , , , , , , , , , , , , , , , , , 
+PeatFlame,0.348039215686274,71,1,156, , , , , , , , , , , , , , , , , , 
+EucalyptusFlame,0.213973799126638,49,0.133093525179856,37,1,159, , , , , , , , , , , , , , , , 
+EucalyptusSmolder,0.101063829787234,19,0.109090909090909,24,0.228855721393035,46,1,88, , , , , , , , , , , , , , 
+PineNeedlesFlame,0.122222222222222,22,0.127358490566038,27,0.174757281553398,36,0.179310344827586,26,1,83, , , , , , , , , , , , 
+RedOakFlame,0.142857142857143,21,0.145251396648045,26,0.112299465240642,21,0.141666666666667,17,0.1,12,1,49, , , , , , , , , , 
+PineFlame,0.044776119402985,6,0.023121387283237,4,0.0778443113772456,13,0.0792079207920792,8,0.0947368421052632,9,0.0606060606060607,4,1,21, , , , , , , , 
+PineSmolder,0.044776119402985,6,0.0114285714285715,2,0.0650887573964497,11,0.123711340206186,12,0.0399999999999999,4,0.044776119402985,3,0.024390243902439,1,1,21, , , , , , 
+PineNeedlesSmolder,0.0461538461538461,6,0.0236686390532544,4,0.0538922155688623,9,0.105263157894737,10,0.0416666666666666,4,0.1,6,0.027027027027027,1,0.151515151515152,5,1,17, , , , 
+PeatSmolder,0,0,0.00641025641025639,1,0.00628930817610063,1,0.0113636363636364,1,0.0120481927710844,1,0.0204081632653061,1,0.0476190476190477,1,0,0,0,0,1,1, , 
+RedOakSmolder,0,0,0.00636942675159224,1,0.00624999999999998,1,0.0227272727272727,2,0.0240963855421688,2,0.02,1,0.0454545454545455,1,0,0,0,0,0.5,1,1,2
