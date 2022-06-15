@@ -1,0 +1,1 @@
+Each file served as the basis for an IPA analysis. Files reflect the differentially expressed genes in each cluster of exposure conditions idenified in Experiment 2, where 4h and 24h clusters are independent.
