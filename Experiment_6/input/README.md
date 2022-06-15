@@ -1,1 +1,1 @@
-Input files for this experiment include the list of DEGs for each exposure condition at 4hs and 24hs based on the an adjusted p-value <0.1 and fold change >=2.5, as well the toxicity endpoints at 4hs and 24hs.
+Input files for this experiment include the list of DEGs for each exposure condition at 4hs and 24hs based on an adjusted p-value <0.1 and fold change >=2.5, as well the toxicity endpoints at 4hs and 24hs.
