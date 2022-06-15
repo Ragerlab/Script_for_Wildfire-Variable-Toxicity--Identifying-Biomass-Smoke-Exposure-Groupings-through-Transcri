@@ -30,7 +30,7 @@ for(f in files_24){
 }  
 
 #Change to main directory
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/Transcriptomic_Similarity/Sensitivity_Analysis/Experiment_3")
+setwd("Experiment_3")
 
 
 
