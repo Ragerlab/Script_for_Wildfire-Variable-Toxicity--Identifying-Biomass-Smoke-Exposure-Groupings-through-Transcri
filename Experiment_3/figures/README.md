@@ -1,1 +1,1 @@
-figs
+Figures for Experiment 3 include heatmaps showing genes deemed significantly differentially expressed at 4hs and 24hs. Additionally, plots of the WSS and silhouette profile are included which were used for determining the optimal number of clusters of exposure conditions and genes at 4hs and 24hs for each set of conditions for determining DEGs.
