@@ -11,7 +11,7 @@ library(pheatmap)
 library(factoextra)
 
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/Transcriptomic_Similarity/Sensitivity_Analysis/Experiment_3/input/4h")
+setwd("Experiment_3/input/4h")
 
 
 #Create dataframe to store all relevent data from all input files (gene, adjusted pvalue, log2 fold change, and the exposure condition)
