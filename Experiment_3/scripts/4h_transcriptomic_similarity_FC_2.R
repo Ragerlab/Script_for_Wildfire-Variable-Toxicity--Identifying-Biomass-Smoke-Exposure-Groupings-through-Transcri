@@ -33,7 +33,7 @@ for(f in files_4){
 }  
 
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/Transcriptomic_Similarity/Sensitivity_Analysis/Experiment_3")
+setwd("Experiment_3")
 
 
 
