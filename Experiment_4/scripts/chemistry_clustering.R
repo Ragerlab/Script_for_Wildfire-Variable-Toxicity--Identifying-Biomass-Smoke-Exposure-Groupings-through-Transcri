@@ -12,10 +12,10 @@ library(factoextra)
 library(cluster)
 
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/Transcriptomic_Similarity/Sensitivity_Analysis/Experiment_4")
+setwd("Experiment_4")
 
 #read in chemistry data and select the columns that reflect the chemical and the exposure conditions
-chems <- read_xlsx("input/Updated_Chemistry_Calcs_012920.xlsx", sheet = "5_CleanedData")
+chems <- read_xlsx("input/Chemistry_Calcs_012920.xlsx", sheet = "CleanedData")
 chems <- chems %>% select(Chemical | contains("Flaming") | contains("Smoldering")) %>% column_to_rownames("Chemical")
 
 #transpose so we can z-score center and standardize each of the chemicals
