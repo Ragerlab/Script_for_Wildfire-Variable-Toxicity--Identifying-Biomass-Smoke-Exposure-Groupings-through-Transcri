@@ -1,0 +1,8 @@
+Gene_ID
+Marco
+Pck1
+Sox2
+Perm1
+Nppa
+Gprc6a
+Nt5c1a

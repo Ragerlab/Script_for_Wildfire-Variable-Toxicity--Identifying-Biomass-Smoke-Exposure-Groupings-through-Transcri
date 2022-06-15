@@ -1,0 +1,12 @@
+Gene_ID
+Lcn2
+Saa3
+Ctnna3
+Bves
+Fabp3
+Dbp
+Adm
+Dbp
+Mybpc3
+Arf1
+Nr1d1
