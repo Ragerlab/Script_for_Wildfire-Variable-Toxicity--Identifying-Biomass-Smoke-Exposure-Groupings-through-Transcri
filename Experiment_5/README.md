@@ -1,0 +1,1 @@
+This experiment was a pathway analysis conducted using Qiagen Ingenuity Pathway Analysis (IPA). The lists of DEGs in each cluster of exposure conditions that were derived in Experiment 2, independently for 4hs and 24hs, served as the IPA input. Output are IPA signaling pathways. Result files have been further organized manually. 
