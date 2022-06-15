@@ -7,7 +7,7 @@ library(reshape2)
 library(tidyverse)
 
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/Transcriptomic_Similarity/Sensitivity_Analysis/Experiment_2/input/24h")
+setwd("Experiment_2/input/24h")
 
 
 #Create dataframe to store all relevent data from all input files (gene, baseMean, adjusted pvalue, log2 fold change, and the exposure condition)
