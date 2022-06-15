@@ -1,1 +1,1 @@
-output
+Output for this experiment includes differntially expressed genes at 4h and 24h based on adjusted p-value <0.1 and fold changes >= 2 and 1.5, respectively. Additionally, lower triangular matrices of Jaccard similarities between pairwise exposure conditions based on signficantly differentially expressed genes are exported.
