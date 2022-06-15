@@ -8,7 +8,7 @@ library(reshape2)
 library(tidyverse)
 
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/Transcriptomic_Similarity/Sensitivity_Analysis/Experiment_6")
+setwd("Experiment_6")
 
 
 make_rank <- function(df){
